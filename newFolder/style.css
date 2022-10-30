@@ -1,0 +1,44 @@
+ul {
+  padding: 0;
+}
+
+li {
+  margin-left: 15px;
+  color: gray;
+  font-size: 16px;
+  height: 19px;
+  line-height: 1;
+  list-style: none;
+}
+
+.contries {
+  margin: 30px;
+}
+
+.weather-app {
+  border: 1px solid grey;
+  padding: 15px;
+  margin: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+.weather-now {
+  font-size: 48px;
+  margin-left: 15px;
+}
+
+.unit {
+  position: relative;
+  top: -22px;
+  font-size: 20px;
+}
+
+.weather-form-search {
+  margin: 15px 0 20px 15px;
+}
+
+.city {
+  margin-left: 15px;
+  font-size: 24px;
+}
